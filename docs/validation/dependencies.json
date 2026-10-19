@@ -1,0 +1,37 @@
+{
+  "files": [
+    "Matlab_Code/STAGE3_V2/+stage3v2/cropRoi.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/cvPercent.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/listImages.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/loadApprovedRoi.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/loadDarkImage.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/meanImage.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/percentile.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/readGray.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/requireVariables.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/topFractionMean.m",
+    "Matlab_Code/STAGE3_V2/+stage3v2/validateSelection.m",
+    "Matlab_Code/STAGE3_V2/analyze_reference_drift_v2.m",
+    "Matlab_Code/STAGE3_V2/analyze_stage3_repeatability_v2.m",
+    "Matlab_Code/STAGE3_V2/approve_global_roi_v2.m",
+    "Matlab_Code/STAGE3_V2/audit_stage3_outputs_v2.m",
+    "Matlab_Code/STAGE3_V2/build_stage3_manifest_v2.m",
+    "Matlab_Code/STAGE3_V2/check_stage3_acquisition_preflight.m",
+    "Matlab_Code/STAGE3_V2/create_global_roi_candidate_v2.m",
+    "Matlab_Code/STAGE3_V2/create_stage3_config_v2.m",
+    "Matlab_Code/STAGE3_V2/extract_stage3_brightness_features_v2.m",
+    "Matlab_Code/STAGE3_V2/plot_stage3_results_v2.m",
+    "Matlab_Code/STAGE3_V2/plot_stage3_sequence_review_v2.m",
+    "Matlab_Code/STAGE3_V2/run_stage3_interval_batch_v2.m",
+    "Matlab_Code/STAGE3_V2/run_stage3_v2_pipeline.m",
+    "Matlab_Code/STAGE3_V2/validate_circlescan_motion_log_v2.m",
+    "Matlab_Code/STAGE3_V2/validate_effective_cycle_qc_v2.m",
+    "Matlab_Code/detect_circle_scan_interval.m"
+  ],
+  "products": {
+    "Name": "MATLAB",
+    "Version": "25.2",
+    "ProductNumber": 1,
+    "Certain": true
+  }
+}

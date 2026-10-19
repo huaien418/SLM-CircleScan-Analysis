@@ -1,0 +1,30 @@
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Private experiments, machine settings and generated analysis
+/data/
+/private/
+/local-config/
+**/00_STAGE3_V2_ANALYSIS/
+*.mat
+*.fig
+*.asv
+*.m~
+*.projectarchive
+*.export
+*.zip
+*.avi
+*.mp4
+*.tif
+*.tiff
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+__pycache__/

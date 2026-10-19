@@ -1,0 +1,513 @@
+[
+  {
+    "file": "Matlab_Code/detect_circle_scan_interval.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/analyze_reference_drift_v2.m",
+    "messages": [
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 15,
+        "column": [
+          14,
+          24
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 18,
+        "column": [
+          56,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/analyze_stage3_repeatability_v2.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/approve_global_roi_v2.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/audit_stage3_outputs_v2.m",
+    "messages": [
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 13,
+        "column": [
+          70,
+          80
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 15,
+        "column": [
+          72,
+          82
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 17,
+        "column": [
+          80,
+          90
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 19,
+        "column": [
+          85,
+          95
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 21,
+        "column": [
+          85,
+          95
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 23,
+        "column": [
+          78,
+          88
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 25,
+        "column": [
+          76,
+          86
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 27,
+        "column": [
+          79,
+          89
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 30,
+        "column": [
+          40,
+          50
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 39,
+        "column": [
+          81,
+          91
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 42,
+        "column": [
+          39,
+          49
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 51,
+        "column": [
+          81,
+          91
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 54,
+        "column": [
+          69,
+          79
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 65,
+        "column": [
+          60,
+          70
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 68,
+        "column": [
+          80,
+          90
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 78,
+        "column": [
+          52,
+          62
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 93,
+        "column": [
+          71,
+          81
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 105,
+        "column": [
+          81,
+          91
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 109,
+        "column": [
+          72,
+          82
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 125,
+        "column": [
+          72,
+          82
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 128,
+        "column": [
+          85,
+          95
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/build_stage3_manifest_v2.m",
+    "messages": [
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 130,
+        "column": [
+          58,
+          68
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 133,
+        "column": [
+          65,
+          75
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 137,
+        "column": [
+          74,
+          84
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/check_stage3_acquisition_preflight.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/create_global_roi_candidate_v2.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/create_stage3_config_v2.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/extract_stage3_brightness_features_v2.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/plot_stage3_results_v2.m",
+    "messages": [
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 50,
+        "column": [
+          80,
+          90
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 69,
+        "column": [
+          80,
+          90
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 80,
+        "column": [
+          80,
+          90
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 101,
+        "column": [
+          80,
+          90
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 115,
+        "column": [
+          88,
+          98
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/plot_stage3_sequence_review_v2.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/run_stage3_interval_batch_v2.m",
+    "messages": {
+      "id": "MSNU",
+      "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+      "fix": 1,
+      "line": 170,
+      "column": [
+        55,
+        65
+      ]
+    }
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/run_stage3_v2_pipeline.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/validate_circlescan_motion_log_v2.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/validate_effective_cycle_qc_v2.m",
+    "messages": [
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 197,
+        "column": [
+          62,
+          72
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 198,
+        "column": [
+          63,
+          73
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 199,
+        "column": [
+          63,
+          73
+        ]
+      },
+      {
+        "id": "MSNU",
+        "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+        "fix": 1,
+        "line": 200,
+        "column": [
+          53,
+          63
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/cropRoi.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/cvPercent.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/listImages.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/loadApprovedRoi.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/loadDarkImage.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/meanImage.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/percentile.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/readGray.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/requireVariables.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/topFractionMean.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/+stage3v2/validateSelection.m",
+    "messages": []
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/tests/test_stage3_v2_smoke.m",
+    "messages": {
+      "id": "MSNU",
+      "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+      "fix": 1,
+      "line": 9,
+      "column": [
+        50,
+        60
+      ]
+    }
+  },
+  {
+    "file": "Matlab_Code/STAGE3_V2/tests/fake_detector/detect_circle_scan_interval.m",
+    "messages": {
+      "id": "MSNU",
+      "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+      "fix": 1,
+      "line": 10,
+      "column": [
+        22,
+        32
+      ]
+    }
+  },
+  {
+    "file": "examples/run_synthetic_demo.m",
+    "messages": {
+      "id": "MSNU",
+      "message": "A Code Analyzer message was once suppressed here, but the message is no longer generated.",
+      "fix": 1,
+      "line": 7,
+      "column": [
+        50,
+        60
+      ]
+    }
+  }
+]

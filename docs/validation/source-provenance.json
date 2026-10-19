@@ -1,0 +1,176 @@
+[
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/cropRoi.m",
+    "original_sha256": "1d5cf57b3eca104f7d157db749ea631c363fc57ca2c29bed2e4cefcdc4ba643b",
+    "published_sha256": "1d5cf57b3eca104f7d157db749ea631c363fc57ca2c29bed2e4cefcdc4ba643b",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/cvPercent.m",
+    "original_sha256": "844f3f1c976ad204b333246e35dbd66c3d6746d32d406c848495d0a9546fd1ae",
+    "published_sha256": "844f3f1c976ad204b333246e35dbd66c3d6746d32d406c848495d0a9546fd1ae",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/listImages.m",
+    "original_sha256": "06bf60d3a3509f554b80c4de53dc8cb3c4d078d050dde9df857b8a3024bb2278",
+    "published_sha256": "06bf60d3a3509f554b80c4de53dc8cb3c4d078d050dde9df857b8a3024bb2278",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/loadApprovedRoi.m",
+    "original_sha256": "33b1802d224cdc4ba7c65a3f6e66a1332a5f992807ba171c2ebee04d6c2be784",
+    "published_sha256": "33b1802d224cdc4ba7c65a3f6e66a1332a5f992807ba171c2ebee04d6c2be784",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/loadDarkImage.m",
+    "original_sha256": "67b184a4d619a1c2b126222d47950bb6b52da75b7d6c027d3ff3d93c399b3d67",
+    "published_sha256": "67b184a4d619a1c2b126222d47950bb6b52da75b7d6c027d3ff3d93c399b3d67",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/meanImage.m",
+    "original_sha256": "382d9af86ec682908bbc36cba51df9d12df51791c194299a1aee76d6126c50eb",
+    "published_sha256": "382d9af86ec682908bbc36cba51df9d12df51791c194299a1aee76d6126c50eb",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/percentile.m",
+    "original_sha256": "16a1c09daa3bc207145749373a18590f1367443c0f651aa4c35af12f35be6584",
+    "published_sha256": "16a1c09daa3bc207145749373a18590f1367443c0f651aa4c35af12f35be6584",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/readGray.m",
+    "original_sha256": "b4b5ab44010d4ec60566bfa195e52e8233d2a302f3ccfe2596ed5fbef6575095",
+    "published_sha256": "b4b5ab44010d4ec60566bfa195e52e8233d2a302f3ccfe2596ed5fbef6575095",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/requireVariables.m",
+    "original_sha256": "fa34bd57b547c1c15c895a455d2c3f769dbb97ab93c69a821c7a81c3272eb129",
+    "published_sha256": "fa34bd57b547c1c15c895a455d2c3f769dbb97ab93c69a821c7a81c3272eb129",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/topFractionMean.m",
+    "original_sha256": "75b205a0281aba8009276d3bf4e4240bfe6a18357fe0104e60b5ccfaf66f1ebc",
+    "published_sha256": "75b205a0281aba8009276d3bf4e4240bfe6a18357fe0104e60b5ccfaf66f1ebc",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/+stage3v2/validateSelection.m",
+    "original_sha256": "9a81bbec2f98abc48658a9eb3d7cf82cf35436f97f4a9aa9ac88b457327cee89",
+    "published_sha256": "9a81bbec2f98abc48658a9eb3d7cf82cf35436f97f4a9aa9ac88b457327cee89",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/analyze_reference_drift_v2.m",
+    "original_sha256": "21209a6dd84c59a536686131979eec4a83125a314a6a5c92be518e30da727c20",
+    "published_sha256": "21209a6dd84c59a536686131979eec4a83125a314a6a5c92be518e30da727c20",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/analyze_stage3_repeatability_v2.m",
+    "original_sha256": "f93190af1f48cef94126b8cbb067ffe5e78bdfaa86260112e328fabf70da7185",
+    "published_sha256": "f93190af1f48cef94126b8cbb067ffe5e78bdfaa86260112e328fabf70da7185",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/approve_global_roi_v2.m",
+    "original_sha256": "9689e2923bcdd563eafcd0c3e1924bcc7a15686db6196c19b2bef872ac44976d",
+    "published_sha256": "9689e2923bcdd563eafcd0c3e1924bcc7a15686db6196c19b2bef872ac44976d",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/audit_stage3_outputs_v2.m",
+    "original_sha256": "804508dd0ea9e43d8f2cec399c48769bd03a3391bcc06ac1668fc9b3294c305f",
+    "published_sha256": "804508dd0ea9e43d8f2cec399c48769bd03a3391bcc06ac1668fc9b3294c305f",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/build_stage3_manifest_v2.m",
+    "original_sha256": "4d563e47e871eaf3c27978340ddeba156da38556a92e5a48e885142c0c33fd30",
+    "published_sha256": "4d563e47e871eaf3c27978340ddeba156da38556a92e5a48e885142c0c33fd30",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/check_stage3_acquisition_preflight.m",
+    "original_sha256": "cc28dc794ab5d9dca590dd75594996cd546d4a05d4a8898f8671ed892a1df2b4",
+    "published_sha256": "cc28dc794ab5d9dca590dd75594996cd546d4a05d4a8898f8671ed892a1df2b4",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/create_global_roi_candidate_v2.m",
+    "original_sha256": "8bdab48fbf2946e5e7fb4dfcca2a9a4df2e110602f39857da7688a737caaf55c",
+    "published_sha256": "8bdab48fbf2946e5e7fb4dfcca2a9a4df2e110602f39857da7688a737caaf55c",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/create_stage3_config_v2.m",
+    "original_sha256": "ce8796757aa5af31c32bf33ffa594b458ecf21b0d9f72fc1afee491f2ecd360f",
+    "published_sha256": "ce8796757aa5af31c32bf33ffa594b458ecf21b0d9f72fc1afee491f2ecd360f",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/extract_stage3_brightness_features_v2.m",
+    "original_sha256": "0dc9ebf58cc6b2aba9ac120554455b58a9316bc9be90583da31f9716e5590712",
+    "published_sha256": "0dc9ebf58cc6b2aba9ac120554455b58a9316bc9be90583da31f9716e5590712",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/plot_stage3_results_v2.m",
+    "original_sha256": "375a601746fe1104e38f1938985c1dc67dbfb7d1fc3566fb07cc34ff3bd0c2e0",
+    "published_sha256": "375a601746fe1104e38f1938985c1dc67dbfb7d1fc3566fb07cc34ff3bd0c2e0",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/plot_stage3_sequence_review_v2.m",
+    "original_sha256": "5c703aaaeddb7f4abc7aa5b1c5d92774d3137f92507945a6159bc18f0a7628a2",
+    "published_sha256": "5c703aaaeddb7f4abc7aa5b1c5d92774d3137f92507945a6159bc18f0a7628a2",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/run_stage3_interval_batch_v2.m",
+    "original_sha256": "53fbdcf0430a8fffe92aad192802e6ce27a6ab68814bde7f5671844b7ccc33ea",
+    "published_sha256": "53fbdcf0430a8fffe92aad192802e6ce27a6ab68814bde7f5671844b7ccc33ea",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/run_stage3_v2_pipeline.m",
+    "original_sha256": "56c755f957b6d5cfe0d00da4a34e1fd41f2bf309c69d4abbffa4593310e20408",
+    "published_sha256": "56c755f957b6d5cfe0d00da4a34e1fd41f2bf309c69d4abbffa4593310e20408",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/tests/fake_detector/detect_circle_scan_interval.m",
+    "original_sha256": "c2e696d35504e20e344ebfe46ea87d8271796ca7c1931b24f8433040ae64a712",
+    "published_sha256": "c2e696d35504e20e344ebfe46ea87d8271796ca7c1931b24f8433040ae64a712",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/tests/test_stage3_v2_smoke.m",
+    "original_sha256": "789868c129bf073468980b5f18f695998cf6b1710e7e65945500bffb5ed3e4ab",
+    "published_sha256": "311be7611001861c03333dcdbd057aabb5964135c455038b29019526040d7c8b",
+    "change": "Add caller-path restoration with onCleanup"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/validate_circlescan_motion_log_v2.m",
+    "original_sha256": "551e848b5f01ec5a264633dbaff38d92e2c6eb196cff093fbb9cdbf578e76339",
+    "published_sha256": "551e848b5f01ec5a264633dbaff38d92e2c6eb196cff093fbb9cdbf578e76339",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/STAGE3_V2/validate_effective_cycle_qc_v2.m",
+    "original_sha256": "a887a2a413eaefa1a6fd13b4d5dac6bd1a794517f7c46b34fd0574741f08e775",
+    "published_sha256": "a887a2a413eaefa1a6fd13b4d5dac6bd1a794517f7c46b34fd0574741f08e775",
+    "change": "Unchanged"
+  },
+  {
+    "path": "Matlab_Code/detect_circle_scan_interval.m",
+    "original_sha256": "f539b2610c028d2e931f1662ffb45ed5a04f257eb338ee26a79513c736204794",
+    "published_sha256": "f539b2610c028d2e931f1662ffb45ed5a04f257eb338ee26a79513c736204794",
+    "change": "Unchanged"
+  }
+]

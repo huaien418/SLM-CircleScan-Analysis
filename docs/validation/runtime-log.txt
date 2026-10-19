@@ -1,0 +1,294 @@
+Synthetic public-copy validation; local temporary paths redacted.
+PUBLIC COPY VERIFICATION
+MATLAB 25.2.0.2998904 (R2025b) (2025b)
+
+=== Stage 3 V2 config created ===
+Experiment root: <temporary-study>
+Thicknesses: 40, 80 um
+Independent preparations: 5
+Technical captures per bed: 3
+Expected frames for 5 cycles: 753.98
+Config file: <temporary-study>\00_STAGE3_V2_ANALYSIS\config\stage3_v2_config.mat
+
+=== Stage 3 V2 manifest created ===
+Datasets: 30
+Independent preparations: 5
+Thicknesses: 40, 80 um
+Technical captures per bed: 3
+Output: <temporary-study>\00_STAGE3_V2_ANALYSIS\config\stage3_v2_manifest.csv
+    K       DatasetID       AcquisitionOrder    RepeatID    ThicknessUm    TechnicalID    ImageCount    PlatformHeightMm
+    __    ______________    ________________    ________    ___________    ___________    __________    ________________
+
+     1    "R01_40um_T01"            1            "R01"          40            "T01"           10              0.51
+     2    "R01_40um_T02"            2            "R01"          40            "T02"           10              0.51
+     3    "R01_40um_T03"            3            "R01"          40            "T03"           10              0.51
+     4    "R01_80um_T01"            4            "R01"          80            "T01"           10              0.47
+     5    "R01_80um_T02"            5            "R01"          80            "T02"           10              0.47
+     6    "R01_80um_T03"            6            "R01"          80            "T03"           10              0.47
+     7    "R02_40um_T01"            7            "R02"          40            "T01"           10              0.51
+     8    "R02_40um_T02"            8            "R02"          40            "T02"           10              0.51
+     9    "R02_40um_T03"            9            "R02"          40            "T03"           10              0.51
+    10    "R02_80um_T01"           10            "R02"          80            "T01"           10              0.47
+    11    "R02_80um_T02"           11            "R02"          80            "T02"           10              0.47
+    12    "R02_80um_T03"           12            "R02"          80            "T03"           10              0.47
+    13    "R03_40um_T01"           13            "R03"          40            "T01"           10              0.51
+    14    "R03_40um_T02"           14            "R03"          40            "T02"           10              0.51
+    15    "R03_40um_T03"           15            "R03"          40            "T03"           10              0.51
+    16    "R03_80um_T01"           16            "R03"          80            "T01"           10              0.47
+    17    "R03_80um_T02"           17            "R03"          80            "T02"           10              0.47
+    18    "R03_80um_T03"           18            "R03"          80            "T03"           10              0.47
+    19    "R04_40um_T01"           19            "R04"          40            "T01"           10              0.51
+    20    "R04_40um_T02"           20            "R04"          40            "T02"           10              0.51
+    21    "R04_40um_T03"           21            "R04"          40            "T03"           10              0.51
+    22    "R04_80um_T01"           22            "R04"          80            "T01"           10              0.47
+    23    "R04_80um_T02"           23            "R04"          80            "T02"           10              0.47
+    24    "R04_80um_T03"           24            "R04"          80            "T03"           10              0.47
+    25    "R05_40um_T01"           25            "R05"          40            "T01"           10              0.51
+    26    "R05_40um_T02"           26            "R05"          40            "T02"           10              0.51
+    27    "R05_40um_T03"           27            "R05"          40            "T03"           10              0.51
+    28    "R05_80um_T01"           28            "R05"          80            "T01"           10              0.47
+    29    "R05_80um_T02"           29            "R05"          80            "T02"           10              0.47
+    30    "R05_80um_T03"           30            "R05"          80            "T03"           10              0.47
+
+
+=== Stage 3 V2 interval batch ===
+    K      DatasetID       RepeatID    ThicknessUm    TechnicalID    ImageCount    RadiusMm    VelocityMmS
+    _    ______________    ________    ___________    ___________    __________    ________    ___________
+
+    1    "R01_40um_T01"     "R01"          40            "T01"           10          1.5            5
+    2    "R01_40um_T02"     "R01"          40            "T02"           10          1.5            5
+
+
+[1/2] K=1 R01_40um_T01
+Cycles=5, effective range=[1 10], period error=0.000%
+
+[2/2] K=2 R01_40um_T02
+[Warning: K=2 R01_40um_T02 failed: Intentional detector failure used to verify per-run isolation.]
+[> In run_stage3_interval_batch_v2 (line 89)
+In test_stage3_v2_smoke (line 84)
+In run_synthetic_demo (line 17)
+In verify_public_copy (line 40)]
+
+=== Stage 3 V2 interval batch finished ===
+COMPLETED: 1
+SKIPPED_EXISTING: 0
+FAILED: 1
+Status CSV: <temporary-study>\00_INTERVAL_ISOLATION_TEST\batch_status\stage3_v2_interval_status.csv
+
+=== Stage 3 V2 acquisition preflight ===
+Decision: PASS
+Mean Top1: 117.800 DN | Top1 SNR: 117.800
+Maximum saturated pixel percent: 0.000000%
+Effective range: [1 10]
+Output: <temporary-study>\R01\40um_T01\AcquisitionPreflight_V2
+
+=== Stage 3 V2 brightness feature extraction ===
+    K       DatasetID       RepeatID    ThicknessUm    TechnicalID
+    __    ______________    ________    ___________    ___________
+
+     1    "R01_40um_T01"     "R01"          40            "T01"
+     2    "R01_40um_T02"     "R01"          40            "T02"
+     3    "R01_40um_T03"     "R01"          40            "T03"
+     4    "R01_80um_T01"     "R01"          80            "T01"
+     5    "R01_80um_T02"     "R01"          80            "T02"
+     6    "R01_80um_T03"     "R01"          80            "T03"
+     7    "R02_40um_T01"     "R02"          40            "T01"
+     8    "R02_40um_T02"     "R02"          40            "T02"
+     9    "R02_40um_T03"     "R02"          40            "T03"
+    10    "R02_80um_T01"     "R02"          80            "T01"
+    11    "R02_80um_T02"     "R02"          80            "T02"
+    12    "R02_80um_T03"     "R02"          80            "T03"
+    13    "R03_40um_T01"     "R03"          40            "T01"
+    14    "R03_40um_T02"     "R03"          40            "T02"
+    15    "R03_40um_T03"     "R03"          40            "T03"
+    16    "R03_80um_T01"     "R03"          80            "T01"
+    17    "R03_80um_T02"     "R03"          80            "T02"
+    18    "R03_80um_T03"     "R03"          80            "T03"
+    19    "R04_40um_T01"     "R04"          40            "T01"
+    20    "R04_40um_T02"     "R04"          40            "T02"
+    21    "R04_40um_T03"     "R04"          40            "T03"
+    22    "R04_80um_T01"     "R04"          80            "T01"
+    23    "R04_80um_T02"     "R04"          80            "T02"
+    24    "R04_80um_T03"     "R04"          80            "T03"
+    25    "R05_40um_T01"     "R05"          40            "T01"
+    26    "R05_40um_T02"     "R05"          40            "T02"
+    27    "R05_40um_T03"     "R05"          40            "T03"
+    28    "R05_80um_T01"     "R05"          80            "T01"
+    29    "R05_80um_T02"     "R05"          80            "T02"
+    30    "R05_80um_T03"     "R05"          80            "T03"
+
+
+[1/30] K=1 R01_40um_T01
+
+[2/30] K=2 R01_40um_T02
+
+[3/30] K=3 R01_40um_T03
+
+[4/30] K=4 R01_80um_T01
+
+[5/30] K=5 R01_80um_T02
+
+[6/30] K=6 R01_80um_T03
+
+[7/30] K=7 R02_40um_T01
+
+[8/30] K=8 R02_40um_T02
+
+[9/30] K=9 R02_40um_T03
+
+[10/30] K=10 R02_80um_T01
+
+[11/30] K=11 R02_80um_T02
+
+[12/30] K=12 R02_80um_T03
+
+[13/30] K=13 R03_40um_T01
+
+[14/30] K=14 R03_40um_T02
+
+[15/30] K=15 R03_40um_T03
+
+[16/30] K=16 R03_80um_T01
+
+[17/30] K=17 R03_80um_T02
+
+[18/30] K=18 R03_80um_T03
+
+[19/30] K=19 R04_40um_T01
+
+[20/30] K=20 R04_40um_T02
+
+[21/30] K=21 R04_40um_T03
+
+[22/30] K=22 R04_80um_T01
+
+[23/30] K=23 R04_80um_T02
+
+[24/30] K=24 R04_80um_T03
+
+[25/30] K=25 R05_40um_T01
+
+[26/30] K=26 R05_40um_T02
+
+[27/30] K=27 R05_40um_T03
+
+[28/30] K=28 R05_80um_T01
+
+[29/30] K=29 R05_80um_T02
+
+[30/30] K=30 R05_80um_T03
+
+=== Stage 3 V2 feature extraction finished ===
+COMPLETED/SKIPPED: 30 / 30
+Primary feature: Top1MeanDN
+Run features: <temporary-study>\00_STAGE3_V2_ANALYSIS\features\stage3_v2_run_features.csv
+
+=== Stage 3 V2 repeatability analysis completed ===
+      FeatureID      IsPrimaryFeature    DirectionAgreementCount    CompletePairCount    SeparationS    MedianTechnicalCvPercent    EndpointValidationPassed
+    _____________    ________________    _______________________    _________________    ___________    ________________________    ________________________
+
+    "RoiMeanDN"           false                     5                       5              17.889               0.29446                      true
+    "P90DN"               false                     5                       5              17.889               0.31551                      true
+    "P95DN"               false                     5                       5              17.889               0.31551                      true
+    "P99DN"               false                     5                       5              17.889               0.31551                      true
+    "Top10MeanDN"         false                     5                       5              17.889               0.31551                      true
+    "Top5MeanDN"          false                     5                       5              17.889               0.31551                      true
+    "Top1MeanDN"          true                      5                       5              17.889               0.31551                      true
+    "MaximumDN"           false                     5                       5              17.889               0.31551                      true
+
+Separation summary: <temporary-study>\00_STAGE3_V2_ANALYSIS\statistics\separation_summary.csv
+
+=== Stage 3 V2 reference drift ===
+    ReferenceType       ReferenceQcStatus        BeginningTop1MeanDN    EndTop1MeanDN    Top1DriftPercent    MaximumSaturatedPixelPercent
+    _____________    ________________________    ___________________    _____________    ________________    ____________________________
+
+       "DARK"        "AVAILABLE_NO_HARD_GATE"              5                   6              18.182                      0
+       "NAKED"       "AVAILABLE_NO_HARD_GATE"            142                 137              3.5842                      0
+
+Reference QC: <temporary-study>\00_STAGE3_V2_ANALYSIS\qc\stage3_v2_reference_qc.csv
+
+Stage 3 V2 figures: <temporary-study>\00_STAGE3_V2_ANALYSIS\figures
+
+=== Stage 3 V2 motion-log validation ===
+[1/1] R01_40um_T01: COMMAND_VALID_RESPONSE_TIME_SERIES_AVAILABLE
+Motion QC: <temporary-study>\00_STAGE3_V2_ANALYSIS\qc\stage3_v2_motion_qc.csv
+
+=== Stage 3 V2 audit ===
+                 CheckID                 Required    Status                                                                          Details
+    _________________________________    ________    ______    ___________________________________________________________________________________________________________________________________________________
+
+    "CONFIG"                              true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\config\stage3_v2_config.mat"
+    "MANIFEST"                            true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\config\stage3_v2_manifest.csv"
+    "APPROVED_ROI"                        true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\roi\stage3_v2_global_roi_approved.mat"
+    "INTERVAL_STATUS"                     true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\batch_status\stage3_v2_interval_status.csv"
+    "IMAGE_QC"                            true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\batch_status\stage3_v2_image_qc_status.csv"
+    "RUN_FEATURES"                        true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\features\stage3_v2_run_features.csv"
+    "SEPARATION"                          true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\statistics\separation_summary.csv"
+    "MOTION_QC"                           true       "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\qc\stage3_v2_motion_qc.csv"
+    "REFERENCE_QC"                        false      "PASS"    "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\qc\stage3_v2_reference_qc.csv"
+    "MANIFEST_ROW_COUNT"                  true       "PASS"    "Expected 30; found 30."
+    "UNIQUE_DATASET_ID"                   true       "PASS"    "DatasetID must be unique."
+    "INTERVAL_ROW_COUNT"                  true       "PASS"    "Expected 30; found 30."
+    "COMPLETE_CYCLE_COUNT"                true       "PASS"    "Every formal dataset must contain the requested cycles."
+    "ONE_GLOBAL_ROI"                      true       "PASS"    "All datasets must use one approved Global ROI."
+    "IMAGE_QC_ROW_COUNT"                  true       "PASS"    "Expected 30; found 30."
+    "PRIMARY_FEATURE_PRESENT"             true       "PASS"    "Expected 30 Top1MeanDN rows; found 30."
+    "FIVE_PRIMARY_CYCLES_PER_DATASET"     true       "PASS"    "Primary feature must contain one row per requested cycle."
+    "MOTION_QC_ROW_COUNT"                 true       "PASS"    "Expected 30; found 30."
+    "ALL_COMMAND_PATHS_VALID"             true       "PASS"    "Command geometry must pass for every dataset when motion logs are required. Response evidence remains a separate field."
+    "END_DARK_REFERENCE_AVAILABLE"        false      "PASS"    "End dark is optional unless explicitly required in config."
+    "NAKED_REFERENCE_AVAILABLE"           false      "PASS"    "Naked-bed references are optional unless explicitly required in config."
+
+Overall: STATIC_OUTPUT_CONTRACT_PASSED
+This does not prove the physical thickness model is valid.
+Audit CSV: <temporary-study>\00_STAGE3_V2_ANALYSIS\audit\stage3_v2_audit.csv
+
+=== Stage 3 V2 reference drift ===
+    ReferenceType       ReferenceQcStatus        BeginningTop1MeanDN    EndTop1MeanDN    Top1DriftPercent    MaximumSaturatedPixelPercent
+    _____________    ________________________    ___________________    _____________    ________________    ____________________________
+
+       "DARK"        "AVAILABLE_NO_HARD_GATE"              5                   6              18.182                       0
+       "NAKED"       "NOT_AVAILABLE"                     NaN                 NaN                 NaN                     NaN
+
+Reference QC: <temporary-study>\00_STAGE3_V2_ANALYSIS\qc\stage3_v2_reference_qc.csv
+
+=== Stage 3 V2 audit ===
+                 CheckID                 Required        Status                                                                               Details
+    _________________________________    ________    _______________    ___________________________________________________________________________________________________________________________________________________
+
+    "CONFIG"                              true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\config\stage3_v2_config.mat"
+    "MANIFEST"                            true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\config\stage3_v2_manifest.csv"
+    "APPROVED_ROI"                        true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\roi\stage3_v2_global_roi_approved.mat"
+    "INTERVAL_STATUS"                     true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\batch_status\stage3_v2_interval_status.csv"
+    "IMAGE_QC"                            true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\batch_status\stage3_v2_image_qc_status.csv"
+    "RUN_FEATURES"                        true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\features\stage3_v2_run_features.csv"
+    "SEPARATION"                          true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\statistics\separation_summary.csv"
+    "MOTION_QC"                           true       "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\qc\stage3_v2_motion_qc.csv"
+    "REFERENCE_QC"                        false      "PASS"             "Found: <temporary-study>\00_STAGE3_V2_ANALYSIS\qc\stage3_v2_reference_qc.csv"
+    "MANIFEST_ROW_COUNT"                  true       "PASS"             "Expected 30; found 30."
+    "UNIQUE_DATASET_ID"                   true       "PASS"             "DatasetID must be unique."
+    "INTERVAL_ROW_COUNT"                  true       "PASS"             "Expected 30; found 30."
+    "COMPLETE_CYCLE_COUNT"                true       "PASS"             "Every formal dataset must contain the requested cycles."
+    "ONE_GLOBAL_ROI"                      true       "PASS"             "All datasets must use one approved Global ROI."
+    "IMAGE_QC_ROW_COUNT"                  true       "PASS"             "Expected 30; found 30."
+    "PRIMARY_FEATURE_PRESENT"             true       "PASS"             "Expected 30 Top1MeanDN rows; found 30."
+    "FIVE_PRIMARY_CYCLES_PER_DATASET"     true       "PASS"             "Primary feature must contain one row per requested cycle."
+    "MOTION_QC_ROW_COUNT"                 true       "PASS"             "Expected 30; found 30."
+    "ALL_COMMAND_PATHS_VALID"             true       "PASS"             "Command geometry must pass for every dataset when motion logs are required. Response evidence remains a separate field."
+    "END_DARK_REFERENCE_AVAILABLE"        false      "PASS"             "End dark is optional unless explicitly required in config."
+    "NAKED_REFERENCE_AVAILABLE"           false      "NOT_AVAILABLE"    "Naked-bed references are optional unless explicitly required in config."
+
+Overall: STATIC_OUTPUT_CONTRACT_PASSED
+This does not prove the physical thickness model is valid.
+Audit CSV: <temporary-study>\00_STAGE3_V2_ANALYSIS\audit\stage3_v2_audit.csv
+
+=== STAGE3 V2 SMOKE TEST PASSED ===
+Temporary root: <temporary-study>
+Manifest rows: 30
+Run feature rows: 240
+Primary direction agreement: 5/5
+Primary separation S: 17.8885
+Figures written: 5
+Test path restored; real detector selected after the smoke test.
+Generated files are in the temporary study folder printed above.
+PUBLIC_COPY_VERIFICATION_PASSED
